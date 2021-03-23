@@ -59,7 +59,7 @@
  *    ## page content
  *    ## about page
  *    ## event page
- *
+ *  
  * =================================================================== */
 
 
@@ -125,14 +125,14 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #3b0d11;
+  color: #24a2eb;
   transition: all 0.3s ease-in-out;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #037c82;
+  color: #24a2eb;;
 }
 
 a:hover,
@@ -447,7 +447,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #3b0d11;
+  background: #24a2eb;;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -456,7 +456,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #3b0d11;
+  color: #24a2eb;;
 }
 
 dd {
@@ -940,7 +940,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #3b0d11;
+  -webkit-text-fill-color: #24a2eb;;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -972,8 +972,8 @@ input[type="button"] {
   transition: all .3s ease-in-out;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #272727;
-  border: 0.2rem solid #272727;
+  background-color: #24a2eb;;
+  border: 0.2rem solid #24a2eb;;
 }
 
 .btn:hover,
@@ -999,8 +999,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #3b0d11;
-  border-color: #3b0d11;
+  background: #24a2eb;;
+  border-color: #24a2eb;;
   color: #ffffff;
 }
 
@@ -1219,7 +1219,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #3b0d11;
+  color: #24a2eb;;
 }
 
 .stats-tabs li a em {
@@ -1631,8 +1631,8 @@ input::-moz-focus-inner {
 
 .events-list__item-title a:hover,
 .events-list__item-title a:focus {
-  color: #3b0d11;
-  border-bottom: 1px solid #3b0d11;
+  color: #24a2eb;;
+  border-bottom: 1px solid #24a2eb;;
 }
 
 .events-list__meta {
@@ -1720,7 +1720,7 @@ input::-moz-focus-inner {
   font-weight: 700;
   text-align: center;
   color: #ffffff;
-  background-color: #3b0d11;
+  background-color: #24a2eb;;
   height: 4.8rem;
   width: 4.8rem;
   line-height: 4.8rem;
@@ -2130,7 +2130,7 @@ input::-moz-focus-inner {
   content: "";
   height: 2px;
   width: 10rem;
-  background-color: #7d1c24;
+  background-color: #24a2eb;;
   position: absolute;
   top: 0;
   left: .8rem;
@@ -2520,7 +2520,7 @@ html.no-csstransitions .hero-content {
 .s-about {
   padding-top: 19.6rem;
   padding-bottom: 19.6rem;
-  background-color: #3b0d11;
+  background-color: #24a2eb00;;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -2538,8 +2538,8 @@ html.no-csstransitions .hero-content {
   display: block;
   width: 100%;
   margin-right: 0;
-  background-color: #21070a;
-  border-color: #21070a;
+  background-color: #24a2eb;;
+  border-color: #24a2eb;;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3133,7 +3133,7 @@ html.no-csstransitions .hero-content {
 .s-footer {
   padding-top: 12rem;
   padding-bottom: 8rem;
-  background-color: #3b0d11;
+  background-color: #24a2eb00;
   font-family: "Open Sans", sans-serif;
   font-size: 1.7rem;
   line-height: 1.882;
@@ -3151,8 +3151,8 @@ html.no-csstransitions .hero-content {
 }
 
 .s-footer .btn--footer {
-  border-color: #21070a;
-  background-color: #21070a;
+  border-color: #24a2eb;;
+  background-color: #24a2eb;;
   padding: 0 4rem;
 }
 
@@ -3275,7 +3275,7 @@ html.no-csstransitions .hero-content {
 }
 
 .ss-go-top a:hover {
-  background-color: #037c82;
+  background-color: #24a2eb;;
   color: #ffffff;
 }
 
@@ -3517,7 +3517,7 @@ html.no-csstransitions .hero-content {
 .event-meta strong {
   font-family: "Open Sans", sans-serif;
   margin-right: 1.2rem;
-  color: #3b0d11;
+  color: #24a2eb;;
 }
 
 .event-meta strong::after {
